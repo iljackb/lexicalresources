@@ -619,7 +619,18 @@ Bibl.: WH I: 70, EM 48£, IEW 55ff., Schrijver 1991: 68, Untermann 2000: 81, LIV
                   <lang>Latin</lang> <xr type="crossReference"><ref xml:lang="la">*all-</ref></xr> <seg type="desc" part="M">was probably borrowed from</seg> <cit type="etymon" xml:lang="nds-x-sabe1249"><lang>Sabellic</lang></cit>, <seg type="desc" part="F">since <lang>Latin</lang> does not have this word in its lexicon. For a word only occurring in glosses, this is of course possible.</seg>
                </etym>
                
-               <etym><seg type="desc" part="I">Others have proposed an etymology</seg> <cit type="etymon"><form><orth xml:lang="ine">*ad-arti-</orth></form></cit> with intervocalic <c xml:id="c1" next="#c2">d</c> becoming <c xml:id="c2" prev="#c1">l</c><pc>;</pc> <seg type="desc" part="F">the spelling <xr type="crossReference"><ref xml:lang="la">allers</ref></xr> would then be analogical to <xr type="crossReference"><ref xml:lang="la">sollers</ref></xr><pc>.</pc></seg></etym>
+               <etym><seg type="desc" part="I">Others have proposed an etymology</seg>
+                  
+                  <cit type="etymon" xml:id="ad-arti-"><form><orth xml:lang="nds-x-ine">*ad-arti-</orth></form></cit>
+                  
+                  <etym corresp="#ad-arti-">
+                     <seg type="desc" part="I">with intervocalic </seg><cit type="etymon" xml:id="c1" next="#c2"><form><orth>d</orth></form></cit>
+                  
+                     <seg type="desc" part="F">becoming</seg> <cit type="etymon" xml:id="c2" prev="#c1"><form><orth>l</orth></form></cit>
+                     <pc>;</pc>
+                  </etym>
+                  
+                  <seg type="desc" part="F">the spelling <xr type="crossReference"><ref xml:lang="la">allers</ref></xr> would then be <xr type="crossReference"><lbl>analogical to</lbl> <ref xml:lang="la">sollers</ref></xr><pc>.</pc></seg></etym>
             </etym>
          </entry>      
          
@@ -672,22 +683,22 @@ Nussbaum suggests that accerso may reflect *ad<-kers-s-e/o-, an «s-present to t
                <orth>arcessō</orth>, <form><orth extent="part">-ere</orth></form>
             </form>
                <form type="variant">
-               <orth>accersō</orth>, -ere
+                  <orth>accersō</orth>, <form><orth extent="part">-ere</orth></form>
             </form></form>
             <sense xml:id="arcessō-accersō-s1">
-               <!--  'to summon, send for' -->
+               <def>'to summon, send for' </def>
             </sense>
             <!-- [v. Ill; pf. arcessīvī  -/iī, ppp arcessītum] -->
             <etym>
-               <seg type="desc" part="I">The stem occurs in two variants,</seg> <xr type="crossReference"><ref xml:lang="la" type="entry">accers-</ref></xr> <seg type="desc" part="M">and</seg> <xr type="crossReference"><ref type="entry" xml:lang="la">arcess-</ref></xr><seg type="desc" part="F">, which suggests that on developed from the other by an unusual metathesis or an analogical replacement.</seg>
+               <seg type="desc" part="I">The stem occurs in two variants,</seg> <xr type="crossReference"><ref xml:lang="la" type="entry">accers-</ref></xr> <seg type="desc" part="M">and</seg> <xr type="crossReference"><ref type="entry" xml:lang="la">arcess-</ref></xr><seg type="desc" part="F">, which suggests that one developed from the other by an unusual metathesis or an analogical replacement.</seg>
                
-               <seg type="desc" part="I">Both variants seem to have been sprachwirklich in Plautus' times. The pr. is productive from PL onwards, whereas the pf. is hardly attested before Cicero. Since the pf. clearly favors the variant</seg> <xr type="crossReference"><ref type="entry" xml:lang="la">arcess-</ref></xr><seg type="desc" part="M">, one might hypothesize that</seg> <xr type="crossReference"><ref type="entry" xml:lang="la">arcess-</ref></xr> <seg type="desc" part="M">was in the process of ousting</seg> <xr type="crossReference"><ref type="entry" xml:lang="la">accers-</ref></xr><seg type="desc" part="M"><seg type="desc" part="F">, and that the latter must therefore be the original form.</seg>
+               <seg type="desc" part="I">Both variants seem to have been sprachwirklich in Plautus' times. The pr. is productive from <lang>PL</lang> onwards, whereas the pf. is hardly attested before Cicero. Since the pf. clearly favors the variant</seg> <xr type="crossReference"><ref type="entry" xml:lang="la">arcess-</ref></xr><seg type="desc" part="M">, one might hypothesize that</seg> <xr type="crossReference"><ref type="entry" xml:lang="la">arcess-</ref></xr> <seg type="desc" part="M">was in the process of ousting</seg> <xr type="crossReference"><ref type="entry" xml:lang="la">accers-</ref></xr><seg type="desc" part="M"><seg type="desc" part="F">, and that the latter must therefore be the original form.</seg>
                   
-                  Nussbaum 2007b gives two more arguments for regarding</seg> <xr type="crossReference"><ref type="entry" xml:lang="la">accersō</ref></xr> as original: 
+                  <bibl>Nussbaum 2007b</bibl> gives two more arguments for regarding</seg> <xr type="crossReference"><ref type="entry" xml:lang="la">accersō</ref></xr> as original: 
                
                <!-- this portion could optionally be an embedded <etym> -->
                
-               the noun dorsum → <xr type="crossReference"><ref type="entry">dossum</ref></xr> shows a phonetic change of <cit type="etymon" xml:id="etym-rs"><form><orth xml:lang="la">*rs</orth></form></cit> → <xr type="crossReference" prev="#etym-rs"><ref type="phone">ss</ref></xr>;
+               the noun <xr type="crossReference" subtype="etymon"><ref type="entry" xml:lang="la">dorsum</ref></xr> → <xr type="crossReference"><ref type="entry">dossum</ref></xr> shows a phonetic change of <xr type="crossReference" subtype="etymon" xml:id="etym-rs"><ref  type="phonology" xml:lang="la">*rs</ref></xr> → <xr type="crossReference" prev="#etym-rs"><ref type="phonology">ss</ref></xr>;
                
                a verb in <xr type="crossReference"><ref type="entry" xml:lang="la">-cessō</ref> <lbl>meaning</lbl> <ref type="sense">'go get'</ref></xr> would be favoured by its semantic neighbours <xr type="crossReference"><ref type="entry">capessō</ref></xr> and <xr type="crossReference"><ref type="entry">(ex)petessō</ref></xr>.
                
